@@ -1,0 +1,43 @@
+```
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Build artifacts and dependencies in backend
+inf02-app/backend/node_modules/
+inf02-app/backend/.env
+
+# Package lock files
+package-lock.json
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Coverage reports
+coverage/
+htmlcov/
+
+# Python cache (if any Python files were present)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / build directories (Node.js)
+dist/
+build/
+```
